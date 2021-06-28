@@ -1,2 +1,2 @@
-# Anna-Bella
- Projeto desenvolvido no curso de Desenvolvimento Web Completo 2021 com o uso de HTML e CSS.
+# anna-bella 
+ Primeiro projeto realizado no curso Desenvolvimento Web Completo 2021 com o uso de HTML e CSS.
