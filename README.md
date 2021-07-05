@@ -1,4 +1,4 @@
-# <h1>Anna-Bella<h1>
+ <h1>Anna-Bella</h1>
  <p>Projeto desenvolvido no curso de Desenvolvimento Web Completo 2021 com o uso de HTML e CSS. Com o objetivo demonstrar o meu aprendizado nas aulas. O projeto consiste em uma Fanpage de uma modelo fictícia, no qual apresenta a área de biografia, campanhas e contatos.</p>
  
  <h3 align="center">:fireworks:Projeto Finalizado:fireworks:</h3>
